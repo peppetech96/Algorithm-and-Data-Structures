@@ -1,2 +1,1 @@
-Esercizi svolti necessari per il conseguimento dell' esame: Algorithms
-and Data Structures
+Exercises required for completing the exam in Algorithms and Data Structures at university of Pisa
